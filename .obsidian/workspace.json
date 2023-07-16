@@ -4,21 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "c8a8cd36ad374f40",
+        "id": "e09cd1012ddf3a75",
         "type": "tabs",
         "children": [
           {
-            "id": "354754ecebd1a8b1",
+            "id": "c31541104b7b919c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Física/Cinemática.canvas",
-                "viewState": {
-                  "x": -890,
-                  "y": 150,
-                  "zoom": -1.2420503000843355
-                }
+                "file": "Física/Cinemática.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87439905147e25dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Física/Unidades.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física/Cinemática.canvas",
+                "file": "Física/Cinemática.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Física/Cinemática.canvas",
+                "file": "Física/Cinemática.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física/Cinemática.canvas"
+                "file": "Física/Cinemática.md"
               }
             }
           }
@@ -149,11 +158,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe946b04633a90b5",
+  "active": "c31541104b7b919c",
   "lastOpenFiles": [
-    "Física/Cinemática.md",
     "Física/Cinemática.canvas",
+    "Física/Cinemática.md",
     "Física/Vetores.canvas",
+    "Física/Unidades.md",
+    "Vetores.canvas^soma.md",
+    "Vetores.canvas^.md",
+    "assets/distancia percorrida.png",
     "assets/Decomposicao vetorial.png",
     "assets/multiplicacao vetor.png",
     "assets/regra do paralelogramo.png",
@@ -165,7 +178,6 @@
     "assets/trajetoria eliptica.png",
     "assets/trajetoria parabolica.png",
     "assets/trajetoria reta.png",
-    "Pasted image 20230715160421.png",
     "assets",
     "Cinemática.pdf",
     "Física"
