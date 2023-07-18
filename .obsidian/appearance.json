@@ -1,4 +1,7 @@
 {
   "accentColor": "",
-  "textFontFamily": "Source Code Pro"
+  "textFontFamily": "Source Code Pro",
+  "enabledCssSnippets": [
+    "big-math"
+  ]
 }

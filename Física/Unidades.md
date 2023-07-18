@@ -13,7 +13,29 @@ $\uparrow\!\!\times\; 10 \;\div\!\!\downarrow$
 $\uparrow\!\!\times\; 10 \;\div\!\!\downarrow$
 ### $mm$
 
+# Tempo
+### $h$
+$\uparrow\!\!\times\;\; 60 \;\;\div\!\!\downarrow$
+### $min$
+$\uparrow\!\!\times\;\; 60 \;\;\div\!\!\downarrow$
+### $s$
+
 # Velocidade
 ###  $km/h$
 $\uparrow\!\!\times\;\; 3.6 \;\;\div\!\!\downarrow$
 ###  $m/s$
+
+# Aceleração
+### $m/s^2$
+
+# Frequência
+### $Hz$
+
+### $RPM$
+$\uparrow\!\!\times\;\; 60 \;\;\div\!\!\downarrow$
+### $RPS$
+
+# Ângulo
+### Radianos
+$\pi\,rad = 180\degree$
+### Graus

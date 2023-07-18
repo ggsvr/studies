@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c31541104b7b919c",
+            "id": "87439905147e25dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Física/Unidades.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e985460ecdc3b85",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,18 +159,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c31541104b7b919c",
+  "active": "2e985460ecdc3b85",
   "lastOpenFiles": [
     "Física/Unidades.md",
     "Física/Cinemática.md",
     "Física/Vetores.md",
+    "Distância Percorrida.md",
     "Física/Questões.md",
     "assets/movimento-retrogrado.png",
     "assets/movimento-progressivo.png",
     "assets/cinematica-q1.png",
-    "Vetores.canvas",
-    "Física/Vetores.canvas",
     "Física/Cinemática.canvas",
+    "Física/Vetores.canvas",
     "Vetores.canvas^soma.md",
     "Vetores.canvas^.md",
     "assets/distancia percorrida.png",
