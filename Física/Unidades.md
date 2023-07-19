@@ -1,29 +1,53 @@
 # Distância 
 ### $km$
-$\uparrow\!\!\times\; 10 \;\div\!\!\downarrow$
+$10 \times hm$
+$100\times dam$
+$1000 \times m$
+
 ### $hm$
-$\uparrow\!\!\times\; 10 \;\div\!\!\downarrow$
+$km \div 10$
+$100 \times m$
+
 ### $dam$
-$\uparrow\!\!\times\; 10 \;\div\!\!\downarrow$
+$km \div 100$
+$10 \times m$
+
 ### $m$
-$\uparrow\!\!\times\; 10 \;\div\!\!\downarrow$
+$km \div 1000$
+$10 \times dm$
+$100 \times cm$
+$1000 \times mm$
+
 ### $dm$
-$\uparrow\!\!\times\; 10 \;\div\!\!\downarrow$
+$m \div 10$
+$10 \times cm$
+
 ### $cm$
-$\uparrow\!\!\times\; 10 \;\div\!\!\downarrow$
+$m \div 100$
+$10 \times mm$
+
 ### $mm$
+$m \div 1000$
 
 # Tempo
 ### $h$
-$\uparrow\!\!\times\;\; 60 \;\;\div\!\!\downarrow$
+$60 \times min$
+$3600 \times s$
+
 ### $min$
-$\uparrow\!\!\times\;\; 60 \;\;\div\!\!\downarrow$
+$h \div 60$
+$60 \times s$
+
 ### $s$
+$h \div 3600$
+$min \div 60$
 
 # Velocidade
-###  $km/h$
-$\uparrow\!\!\times\;\; 3.6 \;\;\div\!\!\downarrow$
-###  $m/s$
+### $km/h$
+$m/s \times 3.6$
+
+### $m/s$
+$km/h \div 3.6$
 
 # Aceleração
 ### $m/s^2$
@@ -32,10 +56,26 @@ $\uparrow\!\!\times\;\; 3.6 \;\;\div\!\!\downarrow$
 ### $Hz$
 
 ### $RPM$
-$\uparrow\!\!\times\;\; 60 \;\;\div\!\!\downarrow$
+$60 \times RPS$
+
 ### $RPS$
+$RPM \div 60$
 
 # Ângulo
-### Radianos
-$\pi\,rad = 180\degree$
-### Graus
+### $rad$
+$deg \times \dfrac{\pi}{180}$
+### $deg$
+$rad \times \dfrac{180}{\pi}$
+
+# Força
+### Newton ($N$)
+
+# Massa
+### $Kg$
+$1000 \times g$
+
+### $g$
+$Kg \div 1000$
+
+# Energia
+### Joule ($J$)
