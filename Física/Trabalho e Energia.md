@@ -1,7 +1,7 @@
 
 # Trabalho
 ### Símbolo: $\tau$
-### [[Unidades#Joule ($J$)|Unidade]]: $J$
+### [[Unidades#Joule|Unidade]]: $J$
 É a grandeza relacionada à transferência de energia devido a atuação de uma força. Trabalho é realizado quando uma força é aplicada em um corpo e esse sofre um deslocamento.
 
 ## Trabalho De Uma Força
@@ -31,7 +31,25 @@ $h =$ altura do deslocamento
 
 O trabalho da força peso é **independente da trajetória**.
 
+
+# Potência
+### Símbolo: $Pot$
+### [[Unidades#Watt|Unidade]]: $W$
+Potência é a medida do quão rápido uma tarefa é realizada. Relaciona a quantidade de energia que é consumida/fornecida e o tempo utilizado.
+
+## Potência média
+Definimos potência média relacionando o trabalho com o tempo gasto para realizá-lo:
+### $Pot_{média} = \dfrac{\tau}{\Delta t}$
+Também podemos definir a potência como uma função da velocidade:
+### $Pot_{média} = F \times V_{média} \times \cos \theta$
+
+
 # Energia
 ### Símbolo: $E$
-### [[Unidades#Joule ($J$)|Unidade]]: $J$
+### [[Unidades#Joule|Unidade]]: $J$
 É a capacidade de produzir trabalho. Um corpo so é capaz de realizar um trabalho se possuir energia.
+
+## Energia Cinética
+### Símbolo: $E_c$
+Energia cinética é um tipo de energia que está relacionada com o **movimento dos corpos**. É calculada a partir da seguinte fórmula:
+### $E_c = \dfrac{mv^2}{2}$

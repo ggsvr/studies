@@ -27,7 +27,7 @@ Conjunto de [[#Posição|posições]] sucessivas ocupadas por um móvel no decor
 
 ### Distância Percorrida
 #### Símbolo: $\Delta S$
-#### Unidade: [[Unidades#$m$|m]]
+#### [[Unidades#Metro|Unidade]]: $m$
 Corresponde ao tamanho da [[#Trajetória]], ou percurso total efetuado pelo móvel.
 $\Delta S = S_f - S_0$
 ![[distancia percorrida.png]]
@@ -40,7 +40,7 @@ Para o avião, a trajetória do corpo é retilínea. Já para você, ela é curv
 
 ## Velocidade
 ### Símbolo: $V$
-### [[Unidades#Velocidade|Unidade]]: $m/s$
+### [[Unidades#m/s|Unidade]]: $m/s$
 
 ### Velocidade escalar média (rapidez média)
 Razão entre a [[#Distância Percorrida]] e o tempo gasto.
@@ -227,7 +227,7 @@ O Movimento Circular Uniforme é caracterizado por ser um movimento com trajetó
 
 ### Período
 #### Símbolo: $T$
-#### [[Unidades#Tempo#$s$|Unidade]]: $s$
+#### [[Unidades#Segundo|Unidade]]: $s$
 O período é o tempo gasto em uma volta completa.
 
 #### Exemplos
@@ -236,7 +236,7 @@ O período é o tempo gasto em uma volta completa.
 
 ### Frequência
 #### Símbolo: $f$
-#### [[Unidades#Frequência#$Hz$|Unidade]]: $Hz$
+#### [[Unidades#Hertz|Unidade]]: $Hz$
 Número de voltas por unidade de tempo. Medido em ${n \over s}$. Comumente representada em [[Unidades#Frequência#$RPM$|RPM]] (rotações por minuto).
 
 ### Relação Entre Período e Frequência

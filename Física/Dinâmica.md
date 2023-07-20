@@ -1,6 +1,6 @@
 
 # Força
-### [[Unidades#Newton ($N$)|Unidade]]: $N$
+### [[Unidades#Newton|Unidade]]: $N$
 Agente capaz de deformar ou alterar estado de movimento de um corpo. Surge com a interação entre 2 corpos.
 
 ## Classificação
@@ -18,7 +18,7 @@ Ex: Um ímã e um metal, satélite e Terra.
 $\vec{F_R} = \vec{F_1} + \vec{F_2} + \vec{F_3} + \dots$
 
 # Massa
-### [[Unidades#$Kg$|Unidade]]: $Kg$
+### [[Unidades#Quilograma|Unidade]]: $Kg$
 Medida da inércia de um corpo.
 
 
