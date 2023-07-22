@@ -106,9 +106,9 @@ $\vec{F}_R = T - P_x$
 ## Força Elástica
 ### Símbolo: $F_{el}$
 Força com a qual uma mola reage a uma força externa que a comprime ou a distende.
-$F_{el} = k \times \Delta x$
+$F_{el} = k \times \Delta S$
 $k =$ coeficiente de elasticidade
-$\Delta x =$ Distância da deformação em metros
+$\Delta S =$ Distância da deformação em metros
 
 ## Força Centrípeta
 ### Símbolo: $F_c$

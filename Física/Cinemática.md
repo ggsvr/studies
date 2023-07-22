@@ -160,6 +160,7 @@ $a =$ Aceleração
 $t =$ tempo
 
 ## Equação de Torricelli
+Usado quando não se tem a informação do tempo.
 ### $V^2 = V_0^2 + 2.a.\Delta S$
 
 ## Movimento de Queda Livre

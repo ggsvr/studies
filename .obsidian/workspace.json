@@ -8,19 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "72aa3986f55cd108",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Física/Trabalho e Energia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f517b74b738f01a",
+            "id": "87439905147e25dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2e985460ecdc3b85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Física/Trabalho e Energia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,19 +159,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72aa3986f55cd108",
+  "active": "2e985460ecdc3b85",
   "lastOpenFiles": [
-    "Física/Unidades.md",
+    "Física/Vetores.md",
     "Física/Trabalho e Energia.md",
+    "Física/Unidades.md",
+    "assets/impulso-quantidade-movimento.png",
     "Física/Dinâmica.md",
     "Física/Cinemática.md",
-    "assets/grafico-forca-deslocamento.png",
-    "Física/Vetores.md",
     "assets/tracao-inclinado.png",
     "assets/sistema-tracao.png",
-    "Física/Questões.md",
     "assets/iminencia-movimento.png",
+    "assets/grafico-forca-deslocamento.png",
     "Distância Percorrida.md",
+    "Física/Questões.md",
     "assets/movimento-retrogrado.png",
     "assets/movimento-progressivo.png",
     "assets/cinematica-q1.png",
@@ -180,7 +182,6 @@
     "Vetores.canvas^.md",
     "assets/distancia percorrida.png",
     "assets/Decomposicao vetorial.png",
-    "assets/multiplicacao vetor.png",
     "Física/Mapa Mental.canvas",
     "Física/Unidades.canvas",
     "assets",

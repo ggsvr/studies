@@ -100,6 +100,11 @@ $Kg \div 1000$
 ## Joule
 ### $J$
 $J = N \times m$ (Newton por metro)
+$\sim cal \div 4.2$
+
+## Caloria
+### $cal$
+$\sim 4.2 \times J$
 
 ## Watt
 ### $W$
