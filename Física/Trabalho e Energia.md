@@ -94,17 +94,22 @@ $v = 5m/s$
 ### Símbolo do impulso: $\vec{I}$
 ### Símbolo da quantidade de movimento: $\vec{Q}$
 
+## Impulso de uma Força Constante
+### $\vec{I} = \vec{F} \times \Delta t$
+
+## Quantidade de Movimento de uma Partícula
 ![[impulso-quantidade-movimento.png]]
 
 ## Teorema do Impulso
 O impulso da força resultante que age em um corpo num dado intervalo de tempo é igual a variação da quantidade de movimento desse corpo no intervalo de tempo considerado.
 ### $\vec{I} = \Delta\vec{Q} \implies m\vec{V} - m\vec{V}_0$
 
+
 ## Teorema da Conservação da Quantidade de Movimento
 Se a resultante das forças externas que atuam no sistema for nula, a quantidade de movimento é conservada. Ou seja, em um sistema isolado, a quantidade de movimento é constante.
 ### $\vec{Q}_0 = \vec{Q}_F$
 
-# Choques Mecânicos
+## Choques Mecânicos
 Quando dois corpos colidem um contra o outro, pode acontecer deles "quicarem". Esse fenômeno depende do **coeficiente de restituição $e$**.
 ### $e = \frac{\text{velocidade relativa de afastamento}}{\text{velocidade relativa de aproximação}}$
 

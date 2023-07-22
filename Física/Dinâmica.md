@@ -118,3 +118,54 @@ Força resultante responsável por manter um corpo em uma trajetória circular. 
 Depende do formato e velocidade do corpo.
 $R_{ar} = k \times -\vec{V}^2$
 $k =$ constante que depende do corpo, da área de sua maior seção transversal ao movimento e da densidade do ar.
+
+
+# Torque
+### Símbolo: $M$
+
+Torque, ou momento de uma força, é a tendencia que uma força tem de rotacionar um corpo sobre o qual ela é aplicada. O Torque é um vetor perpendicular ao plano, e pode ser calculado por meio do produto entre o módulo da força e a distância do eixo de rotação.
+
+### $M = F \times d$
+$M =$ Torque ou momento de uma força em relação ao eixo ($N . m$)
+$F =$ Módulo da força aplicada ($N$)
+$d =$ Menor distância entre o eixo e a força aplicada ($m$)
+
+![[torque-positivo-negativo.png]]
+
+## Equilíbrio Rotacional
+Se o torque resultante em um corpo for nulo, ele estará em **equilíbrio rotacional**. Assim, está com velocidade angular constante ou nula.
+
+## Centro de Massa de um Corpo
+É um ponto que se comporta como se toda a massa do corpo estivesse concentrada sobre ele.
+
+## Estática dos Sólidos
+Para que um corpo esteja em **equilíbrio estático**, é necessário que a soma dos torques e das forças atuantes no sistema sejam **zero**.
+### $\Sigma_M + \Sigma_F = 0$
+
+# Máquinas Simples
+Máquinas simples são ferramentes ou instrumentos que facilitam o trabalho e execução de tarefas simples do cotidiano.
+- Alavancas
+- Roldanas ou polias
+- Plano inclinado
+
+## Alavancas
+Utilizam do torque para diminuir a força necessária para rotacionar um sistema.
+
+## Roldanas Fixas
+A roldana fixa facilita a realização de um esforço por mudar a direção da força que seria necessária.
+![[roldana-fixa.png]]
+## Roldanas Móveis
+As roldanas móveis diminuem a intensidade do esforço necessário para sustentar um corpo, pois parte desse esforço é feito pelo teto, que sustenta o conjunto.
+![[roldana-movel.png]]
+- Com uma roldana móvel, a força necessária para equilibrar a carga é dividida por dois ($2^1$).
+- Com duas roldanas, a força é dividida por quatro ($2^2$).
+- Com três, a força é dividida por oito ($2^3$), e assim sucessivamente.
+
+A equação para calcularmos a força $T$ para qualquer número $n$ de roldanas móveis é:
+
+### $T = \dfrac{F}{2^n}$
+
+**CUIDADO PARA NÃO CONFUNDIR ROLDANAS FIXAS E MÓVEIS!**
+
+## Plano Inclinado
+Plano inclinado é toda superfície que tenha inclinação. Se por um lado, o plano inclinado permite acesso a áreas com menor esforço, por outro, ele torna o caminho mais longo.
