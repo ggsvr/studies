@@ -20,18 +20,55 @@
             }
           },
           {
+            "id": "d63a07df0935f5d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Física/Gravitação.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07ad3c7863d89188",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Física/Cinemática.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8f517b74b738f01a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física/Unidades.md",
+                "file": "Física/Hidrostática.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd1fc1affffd9fe5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Física/Hidrodinâmica.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física/Dinâmica.md",
+                "file": "Física/Hidrostática.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Física/Dinâmica.md",
+                "file": "Física/Hidrostática.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física/Dinâmica.md"
+                "file": "Física/Hidrostática.md"
               }
             }
           }
@@ -158,25 +195,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72aa3986f55cd108",
+  "active": "8f517b74b738f01a",
   "lastOpenFiles": [
+    "Física/Hidrodinâmica.md",
     "Física/Vetores.md",
+    "assets/equacao-continuidade.png",
+    "Física/Hidrostática.md",
+    "assets/principio-pascal.png",
+    "Física/Unidades.md",
+    "Física/Gravitação.md",
+    "Física/Cinemática.md",
     "Física/Dinâmica.md",
+    "assets/elipse-excentricidade.png",
+    "elipse-semieixos.png.md",
+    "Física/Trabalho e Energia.md",
+    "assets/elipse-semieixos.png",
     "assets/roldana-movel.png",
     "assets/roldana-fixa.png",
-    "Física/Trabalho e Energia.md",
     "assets/torque-positivo-negativo.png",
     "assets/impulso-quantidade-movimento.png",
-    "Física/Unidades.md",
-    "Física/Cinemática.md",
     "assets/grafico-forca-deslocamento.png",
     "assets/tracao-inclinado.png",
-    "assets/sistema-tracao.png",
     "Física/Questões.md",
-    "assets/iminencia-movimento.png",
     "Distância Percorrida.md",
-    "assets/movimento-retrogrado.png",
-    "assets/movimento-progressivo.png",
     "Física/Cinemática.canvas",
     "Física/Vetores.canvas",
     "Vetores.canvas^soma.md",
