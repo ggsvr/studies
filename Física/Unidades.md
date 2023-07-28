@@ -134,3 +134,17 @@ $\simeq 745,7W$
 ## Atmosfera
 ### $atm$
 $1 \times 10^5 Pa \simeq 10m$ na água 
+
+# Temperatura
+## Celsius
+### $\degree C$
+$(\degree F - 32) \times \dfrac{5}{9}$
+$K - 273.15$
+
+## Fahrenheit
+### $\degree F$
+$\degree C \times \dfrac{9}{5} + 32$
+
+## Kelvin
+### $K$
+$\degree C + 273.15$
