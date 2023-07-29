@@ -90,9 +90,9 @@ Em um sistema isolado constituído por corpos que interagem apenas com forças c
 $\dfrac{mv^2}{2} = 20 - 7.5$
 $v = 5m/s$
 
-# Impulso e Quantidade de Movimento
+# Impulso e Quantidade de Movimento (Momento)
 ### Símbolo do impulso: $\vec{I}$
-### Símbolo da quantidade de movimento: $\vec{Q}$
+### Símbolo da quantidade de movimento (momento): $\vec{Q}$
 
 ## Impulso de uma Força Constante
 ### $\vec{I} = \vec{F} \times \Delta t$

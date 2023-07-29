@@ -22,4 +22,4 @@ A linha imaginária que liga o Sol ao planeta que o orbita varre áreas iguais e
 ## 3. Lei dos Períodos
 A razão entre o quadrado do período orbital ($T^2$) e o cubo do raio médio ($R_m^3$) da órbita de um planeta é constante.
 
-### $T^2 \;\alpha \;R_m^3$
+### $T^2 \propto \;R_m^3$

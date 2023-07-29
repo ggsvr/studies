@@ -1,6 +1,6 @@
 
 # Temperatura
-### Unidades: $K$, $C\degree$, $F\degree$
+### [[Unidades#Temperatura|Unidades]]: $K$, $C\degree$, $F\degree$
 Grandeza que permite avaliar a agitação das partículas que compões um corpo ou sistema de corpos. Através da temperatura é possível dizer se dois sistemas ou mais estão em equilíbrio térmico.
 
 # Dilatação Térmica
@@ -36,3 +36,35 @@ Como não possuem forma fixa, o estudo da dilatação é feito somente em relaç
 ### Dilatação Aparente
 Para observar a dilatação de um líquido, ele precisa estar dentro de um recipiente. Como o recipiente aquece e expande junto do líquido, a dilatação percebida (ou **aparente**) é menor do que a verdadeira dilatação do líquido.
 #### $\Delta V_{ap} = \Delta V_{real} - \Delta V_{recipiente}$
+
+# Calor
+### [[Unidades#Energia|Unidade]]: $J$ ou $cal$
+Calor é o trânsito da energia térmica devido à diferença de temperatura entre corpos, que flui do corpo de maior temperatura para o de menor temperatura.
+
+## Capacidade Térmica
+Energia necessária para alterar a temperatura de um corpo em uma unidade. Específico ao corpo.
+
+|Definição|Unidade Casual|Unidade no S.I.|
+|---------|--------------|---------------|
+| $\mathbb{C} = \dfrac{Q}{\Delta T}$ | $\dfrac{cal}{\degree C}$ | $\dfrac{J}{K}$ |
+
+## Calor Específico
+Energia necessária para alterar em uma unidade de temperatura uma unidade de massa de uma substância. Razão entre capacidade térmica e massa do corpo. Específico à substância.
+
+|Definição|Unidade Casual|Unidade no S.I.|
+|---------|--------------|---------------|
+| $c = \dfrac{\mathbb{C}}{m}$ | $\dfrac{cal}{g \degree C}$ | $\dfrac{J}{kg . K}$ |
+
+## Quantidade de Calor Sensível
+É a quantidade de ENERGIA que uma substância recebe ou libera para alterar sua temperatura, sem mudança de seu estado físico.
+
+### $Q_s = m \times c \times \Delta T$
+$m =$ massa
+$c =$ calor específico
+$\Delta T =$ mudança de temperatura
+
+# Estados Físicos da Matéria
+
+![[estados-fisicos.png]]
+
+As mudanças de fase **dependem da pressão**. É possível mostrar isso através dos gráficos:
