@@ -18,7 +18,7 @@ $V =$ volume
 $T =$ temperatura
 
 ## Lei de Boyle
-Quando um gás sofre uma transformação **isotérmica**, sua pressão e volume são inversamente proporcionais.
+Quando um gás sofre uma transformação **isotérmica**, sua pressão e volume são **inversamente proporcionais**.
 
 ### $P_1 V_1 = P_2 V_2$
 #### $P \propto \frac{1}{V}$
@@ -26,3 +26,14 @@ Quando um gás sofre uma transformação **isotérmica**, sua pressão e volume 
 ![[lei-de-boyle.png]]
 
 ## Lei de Gay-Lussac
+Quando um gás sofre uma transformação **isobárica**, seu volume e temperatura são **diretamente proporcionais**.
+### $\dfrac{V_1}{T_1} = \dfrac{V_2}{T_2}$
+#### $V \propto T$
+
+## Lei de Charles
+Quando um gás sofre uma transformação **isovolumétrica**, sua pressão é diretamente proporcional à sua temperatura.
+### $\dfrac{P_1}{T_1} = \dfrac{P_2}{T_2}$
+#### $P \propto T$
+
+## AVISO
+Temperatura é **sempre em Kelvin**.

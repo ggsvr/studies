@@ -1,8 +1,5 @@
 {
-  "spellcheckLanguages": [
-    "en-US",
-    "pt-BR"
-  ],
+  "spellcheckLanguages": null,
   "vimMode": true,
   "pdfExportSettings": {
     "includeName": true,
