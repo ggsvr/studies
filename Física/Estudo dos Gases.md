@@ -37,3 +37,18 @@ Quando um gás sofre uma transformação **isovolumétrica**, sua pressão é di
 
 ## AVISO
 Temperatura é **sempre em Kelvin**.
+
+# Mols
+É a quantidade de matéria que contém um número constante de partículas (átomos, moléculas etc.). Essa constante é a constante de **Avogadro** $N_a \approx 6.02 \times 10^{23}$. Um mol de um gás é o conjunto de $6.02 \times 10^{23}$ moléculas do mesmo.
+## $n = \dfrac{m}{M}$
+$n =$ número de mols
+$m =$ massa do gás
+$M =$ massa molar ou molecular em gramas
+
+# Equação de Clapeyron
+As variáveis de estado $P$, $V$, e $T$ estão relacionadas com a quantidade de gás. $\frac{P\times V}{T}$ é diretamente proporcional ao número de mols de um gás ideal.
+## $P .V = n . R . T$
+
+## $R$: Constante Universal dos Gases Ideais
+### $R = 0.082 \frac{atm . L}{mol . K}$
+### $R = 8.31 \frac{J}{mol . K}$

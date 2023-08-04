@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física/Hidrodinâmica.md",
+                "file": "Física/Estudo dos Gases.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,19 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física/Estudo dos Gases.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07ad3c7863d89188",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Física/Trabalho e Energia.md",
+                "file": "Física/Termodinâmica.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física/Estudo dos Gases.md",
+                "file": "Física/Termodinâmica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Física/Estudo dos Gases.md",
+                "file": "Física/Termodinâmica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física/Estudo dos Gases.md"
+                "file": "Física/Termodinâmica.md"
               }
             }
           }
@@ -196,18 +184,23 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "21b161109d3d40c8",
+  "active": "fe946b04633a90b5",
   "lastOpenFiles": [
+    "Física/Termometria.md",
+    "Física/Termodinâmica.md",
+    "assets/maquina-frigorifica.png",
+    "assets/maquina-termica.png",
+    "assets/movimento.png",
+    "assets/tmd-ciclica.png",
+    "assets/estados-fisicos.png",
+    "tmd-ciclica-horario.png",
+    "Física/Estudo dos Gases.md",
+    "Física/Hidrodinâmica.md",
     "Física/Trabalho e Energia.md",
     "assets/lei-de-boyle.png",
-    "Física/Hidrodinâmica.md",
-    "Física/Estudo dos Gases.md",
     "Física/Hidrostática.md",
     "Física/Dinâmica.md",
     "Física/Cinemática.md",
-    "Física/Termodinâmica.md",
-    "Física/Termometria.md",
-    "estados-fisicos.png",
     "Física/Gravitação.md",
     "Física/Unidades.md",
     "Física/Vetores.md",
@@ -215,11 +208,6 @@
     "assets/principio-pascal.png",
     "assets/elipse-excentricidade.png",
     "elipse-semieixos.png.md",
-    "assets/elipse-semieixos.png",
-    "assets/roldana-movel.png",
-    "assets/roldana-fixa.png",
-    "assets/torque-positivo-negativo.png",
-    "assets/impulso-quantidade-movimento.png",
     "Física/Questões.md",
     "Distância Percorrida.md",
     "Física/Cinemática.canvas",
